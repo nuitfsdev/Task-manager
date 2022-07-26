@@ -7,4 +7,4 @@ client.sendEmail({
     "To": "nguyenngocnam2108@gmail.com",
     "Subject": "Test",
     "TextBody": "Hello from Postmark!"
-});
+}); 
